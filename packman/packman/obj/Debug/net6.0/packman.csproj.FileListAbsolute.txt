@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\packman.exe
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\packman.deps.json
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\packman.runtimeconfig.json
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\packman.dll
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\ref\packman.dll
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\bin\Debug\net6.0\packman.pdb
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.AssemblyInfo.cs
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.dll
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\ref\packman.dll
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.pdb
+C:\Users\pc\Desktop\mediacollege\packman\packman\packman\obj\Debug\net6.0\packman.genruntimeconfig.cache
